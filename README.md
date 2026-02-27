@@ -1,4 +1,4 @@
-# 🚀 学英语不求人COAF (Corpus of AI Frequency) 
+# 🎧 学英语不求人COAF (Corpus of AI Frequency) 
 **用数据科学重新定义英语词汇进阶之路**
 
 [![YouTube](https://img.shields.io/badge/YouTube-COAF_English-red?logo=youtube)](https://www.youtube.com/@COAF-English)
